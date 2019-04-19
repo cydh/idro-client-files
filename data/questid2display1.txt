@@ -1,4 +1,4 @@
-// ÇÏÄ¡¿ø
+// í•˜ì¹˜ì›
 1000#Job 3#SG_FEEL#QUE_NOIMAGE#
 Kamu dapat menjadi lebih kuat dengan Book of Ymir. Temukan Aula Valhalla, dan kamu akan menjadi prajurit Valkyrie.#
 #
@@ -59,7 +59,7 @@ Kumpulkan Orange Net Mushroom dan Orange Gooey Mushroom#
 Daftar pada Perkumpulan Swordman. Player harus mendapatkan persetujuan dari NPC yang berada pada cek poin terakhir waktu melakukan tes keberanian.#
 Lewati semua tes keberanian.#
 
-// Á¶¹ÌÁ¤
+// ì¡°ë¯¸ì •
 
 2000#Quest Rubah Job Blacksmith#SG_FEEL#QUE_NOIMAGE#
 Kami ingin memeriksa dedikasi dan keinginan dari Merchant yang berlaku kepada kami untuk menjadi Blacksmith. Langkah pertama, pergi ke Einbech dan bantu salah satu anggota guild Getsufenst.#
@@ -338,7 +338,7 @@ Berbicara dengan Benjamin di Morroc#
 Saya memutuskan untuk membaca <The Trace of the Fate> seperti saran dari Benjamin.#
 Kembali ke Perpustakaan Yuno#
 
-// ±èÀºµ¿
+// ê¹€ì€ë™
 
 3000#Quest Rubah Job Bard - Beautiful Song#SG_FEEL#QUE_NOIMAGE#
 Saya bertemu dengan penyanyi cantik Bard. Saya ingin menjadi seorang Bard...Saya harus bertanya kepadanya tentang menjadi Bard?#
@@ -515,7 +515,7 @@ Kamu meregang tangan kamu dan mengambil sebuah benda. Ini bagian dari kulit Sata
 "Selamat, Prajurit. Kamu telah menyelamatkan dunia dan orang-orang yang menjadi korban dari kerusakan dan kejahatan. Saya mempunyai tiga barang. Pilih satu yang ingin kamu ambil?"#
  #
 
-//--------------------º£ÀÎ½ºÀÇ ³²¸Å---------------------------------
+//--------------------ë² ì¸ìŠ¤ì˜ ë‚¨ë§¤---------------------------------
 3060#Saudara Kandung - Dimana adikku?#SG_FEEL#QUE_NOIMAGE#
 Seorang anak bernama Karyn telah kehilangan adik ketika mereka pergi ke Thor Volcano di Veins. Kamu harus membantunya menemukan adiknya Curdie.#
  #
@@ -758,8 +758,8 @@ Kamu menangkap Z Geng dan Book of Forbidden Mystery. Kembali ke tentara tua di P
 
 
 
-// ¿À³²°æ
-//----------------------ÇåÅÍÀüÁ÷------------------------------
+// ì˜¤ë‚¨ê²½
+//----------------------í—Œí„°ì „ì§------------------------------
 4000#Waancara dengan Shelin#SG_FEEL#QUE_NOIMAGE#
 Kamu telah mendapatkan izin untuk mengikuti ujian Shelin untuk melangkah ke tahap selanjutnya.#
 #
@@ -817,7 +817,7 @@ Pergi kembali ke perkumpulan Hunter dan laporkan kamut telah lulus ujian.#
 Penembusan#
 
 
-//--------------------±¹¿Õ¼±Ãâ--------------------------------
+//--------------------êµ­ì™•ì„ ì¶œ--------------------------------
 4015#Menjadi Penguji Kerajaan#SG_FEEL##
 Bertemu dengan Inspector dari kerajaan dan menjadi petualang##
 
@@ -873,11 +873,11 @@ Ada sebuah konspirasi antara keluarga Walter dan keluarga Richard. Kamu harus me
 Pangeran Ahrum telah di bunuh oleh Ernst. Kamu harus melaporkannya secepat mungkin.##
 
 
-// ±Ç¿À¹Î
+// ê¶Œì˜¤ë¯¼
 
 
 
-//ÅÂ±ÇÀüÁ÷
+//íƒœê¶Œì „ì§
 
 6000#Quest Rubah Job Taekwon#SG_FEEL#QUE_NOIMAGE#
 Kamu telah memilih untuk menjadi seorang Taekwon. Kamu harus meningkatkan base level dan berbicaralah kepada Phoenix.#
@@ -894,7 +894,7 @@ Akhirnya kamu menjadi seorang Taekwon dengan berbicara kepada Phoenix.#
 
 
 
-//¼Ò¿ï¸µÄ¿ÀüÁ÷
+//ì†Œìš¸ë§ì»¤ì „ì§
 
 6005#Quest Rubah Job Soul-Linker#SG_FEEL#QUE_NOIMAGE#
 Jika kamu mau menguasai kekuatan spiritual, kamu harus memulai upacara dengan beberapa bahan. Kamu harus membawa 1 Witherless Rose, 3 Carat Diamond and 1 Immortal Heart.#
@@ -915,7 +915,7 @@ Kekuatan spiritual tetap berada dalam hatimu. Berbicaralah dengan Maia lagi.#
 
 
 
-//½´³ë
+//ìŠˆë…¸
 6010#Quest Rubah Job Super Novice#SG_FEEL#QUE_NOIMAGE#
 Jika kamu benar-benar menginginkan kehidupan sebagai Novice, kamu harus mengumpulkan 2 jenis barang yang normal.#
 30 Sticky Mucus, 30 Resin#
@@ -923,7 +923,7 @@ Jika kamu benar-benar menginginkan kehidupan sebagai Novice, kamu harus mengumpu
 
 
 
-//´ÑÀÚ
+//ë‹Œì
 6015#Permintaan Cougar#SG_FEEL#QUE_NOIMAGE#
 Pergi temui Wildcat Joe di Einbroch dan berbicara kepadanya.#
 #
@@ -943,7 +943,7 @@ Cepat dan bawakan 5 Cyfars dan 1 Phracon kepada Cougar.#
 
 
 
-//°Ç½½¸µ°Å
+//ê±´ìŠ¬ë§ê±°
 6020#Surat Master Miller#SG_FEEL#QUE_NOIMAGE#
 Ambil surat dari tuan Wise Bull Horn di Payon.#
 #
@@ -966,8 +966,8 @@ Ini akan membutuhkan waktu. Berbicaralah kepadanya lagi nanti.#
 
 
 
-// ¹èÇı·É
-//-------´í¼­ÀüÁ÷ ºÎºĞ---------------
+// ë°°í˜œë ¹
+//-------ëŒ„ì„œì „ì§ ë¶€ë¶„---------------
 
 7000#Quest Rubah Job Dancer! Isi Formulir!#SG_FEEL#QUE_NOIMAGE#
 Kamu pergi ke sekolah dansa Comodo untuk menjadi seorang Dancer. Kamu telah mengisi formulirnya..#
@@ -997,7 +997,7 @@ Mari berdansa!#
 Langkah dan irama tubuh kamu sungguh mengagumkan! instruktur, Borwaju sangat terkesan. Mari kita cari tahu apa yang benar-benar dia pikirkan..#
 Berbicara dengan Borwaju#
 
-//------ ±Ç¼º ÀüÁ÷
+//------ ê¶Œì„± ì „ì§
 7007#Prajurit Matahari, Bulan, dan Bintang#SG_FEEL#QUE_NOIMAGE#
 Kamu dapat menemui 'Moogang' di Comodo, Diduga tempat yang paling dekat dengan langitnya.#
 Berbicara dengan 'Moogang'#
@@ -1022,8 +1022,8 @@ Berbicara dengan 'Moogang'#
 
 
 
-// ÀÌ°æ¼÷
-//--------------------¾î½ê½ÅÀüÁ÷--------------------------------
+// ì´ê²½ìˆ™
+//--------------------ì–´ì„ì‹ ì „ì§--------------------------------
 8000#Menyerah menjadi Assassin#SG_FEEL#QUE_NOIMAGE#
 Menyerahlah untuk berubah menjadi job Assassin dan kembalilah ke kota. #
 Menyerah menjadi Assassin#
@@ -1061,7 +1061,7 @@ Kamu sekarang akan menjadi seorang Assassin !!#
 Berubah Job menjadi Assassin#
 
 
-//ÇÁ¸®½ºÆ® ÀüÁ÷
+//í”„ë¦¬ìŠ¤íŠ¸ ì „ì§
 
 8009#Quest Rubah Job Priest#SG_FEEL#QUE_NOIMAGE#
 Terima tiga Ujian Priest untuk berubah job.#
@@ -1099,7 +1099,7 @@ Daftarkan untuk berubah job Priest#
 Sekarang kamu akan menjadi seorang Priest!!#
 Sekarang kamu akan menjadi seorang Priest!#
 
-// ¾ÆÀÎºê·ÎÅ© °øÀå Äù½ºÆ®
+// ì•„ì¸ë¸Œë¡œí¬ ê³µì¥ í€˜ìŠ¤íŠ¸
 
 8017#Memeriksa Pabrik Einbroch#SG_FEEL#QUE_NOIMAGE#
 Jika kamu ingin, silakan periksa lantai dua kontrol panel yang sepertinya sedang rusak untuk sementara waktu...#
@@ -1163,7 +1163,7 @@ Kami membutuhkan setidaknya 20 ^FF0000Flexible Tubes^000000, 10 ^FF0000Rusty Scr
 
 
 
-// ¸®È÷Å¸¸£Á¨ : ºñ°øÁ¤ Äù½ºÆ®
+// ë¦¬íˆíƒ€ë¥´ì   : ë¹„ê³µì • í€˜ìŠ¤íŠ¸
 
 8032#Permohonan Tarlock#SG_FEEL#QUE_NOIMAGE#
 Saya mempunyai adik yang jarang saya lihat, dia juga seorang Kapten Airship yang selalu bepergian. Maukah kamu memberikan surat ini kepada saudara saya, Ferlock? Selain itu, tolong kembalilah datang kembali dengan balasannya, oke?#
@@ -1182,7 +1182,7 @@ Oh, jadi kamu mengantarkan surat saya? Bagus, dan kamu juga membawa surat balasa
  #
 
 
-// ¸®È÷Å¸¸£Á¨ : À¯»ç ÀÌ¹Ì¸£ Äù½ºÆ®
+// ë¦¬íˆíƒ€ë¥´ì   : ìœ ì‚¬ ì´ë¯¸ë¥´ í€˜ìŠ¤íŠ¸
 
 8036#Permintaan Hallen#SG_FEEL#QUE_NOIMAGE#
 Maukah kamu mengantarkan surat ini kepada Kaci untuk saya? Ini dari seorang pria bernama tuan Mawong, dia penasehat atau sesuatu yang seperti itu.#
@@ -1217,7 +1217,7 @@ Kamu bertanya tentang mekasisme Airship kepada saya. Jadi kamu bukan pegawai... 
 Kamu harus pergi dan temui Ferlock.#
 
 
-// ÈÖ°Ö : ¾à ±¸ÇÏ±â Äù½ºÆ®
+// íœ˜ê²” : ì•½ êµ¬í•˜ê¸° í€˜ìŠ¤íŠ¸
 
 8044#Tunangan Euslan#SG_FEEL#QUE_NOIMAGE#
 ...Apakah kamu benar-benar bersedia untuk pergi dan mencari Thierry untuk saya? Oh, terima kasih banyak! Kamu tidak tahu berapa besar kebaikanmu untuk saya. Thierry pergi dalam perjalanan, dengan salah satu Airships, untuk menemukan obat yang dikatakan dokter dapat menyembuhkan penyakit saya.#
@@ -1256,9 +1256,9 @@ Tolong mengertilah bahwa saya ingin melihatnya sesegera mungkin, tetapi saya har
 Antarkan obat pada Euslan.#
 
 
-// ÈÖ°Ö : ¾àÃÊ Äù½ºÆ® (hg_herv.sc)
+// íœ˜ê²” : ì•½ì´ˆ í€˜ìŠ¤íŠ¸ (hg_herv.sc)
 
-8053#¿¤·±ÀÇ ¾à#SG_FEEL#QUE_NOIMAGE#
+8053#ì—˜ëŸ°ì˜ ì•½#SG_FEEL#QUE_NOIMAGE#
 Saya membutuhkan kamu untuk menemukan anak saya Postell dan katakan padanya untuk membawa obat saya! Pergi ke arah timur, pergi ke luar kota, dan kamu akan dapat menemukan Postell.#
  #
 
@@ -1275,7 +1275,7 @@ Silahkan kamu lihat di laci obat-obatan dan ambil yang kamu sukai~#
 Lihat kedalam laci obat-obatan.#
 
 
-// ÈÖ°Ö : Ãß¾ï Äù½ºÆ® (hg_memo.sc)
+// íœ˜ê²” : ì¶”ì–µ í€˜ìŠ¤íŠ¸ (hg_memo.sc)
 
 8057#Gerutu Manainne#SG_FEEL#QUE_NOIMAGE#
 Ini berarti banyak pohon untuk setiap orang di kota ini, dan kita akan mempunyai kenangan kita sendiri di kota ini. Tetapi El Schatt berencana menebang semua pohon untuk mendirikan tokonya...#
@@ -1306,7 +1306,7 @@ Go back to Hugel#
  #
 
 
-// ÈÖ°Ö : ¿Àµ­ Äù½ºÆ® (hg_odeng.sc)
+// íœ˜ê²” : ì˜¤ë… í€˜ìŠ¤íŠ¸ (hg_odeng.sc)
 
 8064#Cellette's Fish Cake Soup#SG_FEEL#QUE_NOIMAGE#
 Silakan mengambil pesanan Fish Cake Soup untuk teman saya Neha. Saya berterima kasih dia adalah pelanggan utama saya..#
@@ -1357,7 +1357,7 @@ Kamu boleh pulang. Silahkan pergi, dan sampaikan kepada Cellette rasa terima kas
 Kamu berhasil mengantarkan Fish Soup.#
 
 
-// ¾ÆÀÎºê·ÎÅ© : ¿¬ÀÎ Äù½ºÆ® (ein_ryu.sc)
+// ì•„ì¸ë¸Œë¡œí¬ : ì—°ì¸ í€˜ìŠ¤íŠ¸ (ein_ryu.sc)
 
 8076#Klitzer dan Calla#SG_FEEL#QUE_NOIMAGE#
 Saya tahu terlalu bertingkah seperti orang bodoh. Namun saya akan berikan apapun untuk Calla...jangan dengarkan apaun yang saya katakan. Saya hanya orang bodoh yang jatuh cinta dengan orang yang salah.#
@@ -1412,7 +1412,7 @@ Kamu telah membuka mataku. Mulai dari sekarang, Aku akan berusaha mendapatkan pe
  #
 
 
-// ¶óÇï : Àß¸øµÈ ½ÉºÎ¸§ Äù½ºÆ® (rachel_wonjumin.sc)
+// ë¼í—¬ : ì˜ëª»ëœ ì‹¬ë¶€ë¦„ í€˜ìŠ¤íŠ¸ (rachel_wonjumin.sc)
 
 8089#Stolen Gemstone#SG_FEEL#QUE_NOIMAGE#
 Aku tidak memiliki bukti, tetapi aku mengira gem itu dicuri oleh Phobe, seorang pelayan yang menghilang bersamaan dengan menghilangnya Gem tersebut. Kamu mungkin ingin mencari tahu tentang asal usul dia.#
@@ -1459,7 +1459,7 @@ Surat ini adalah surat rekomendasi yang kutuliskan untukmu. Tolong antarkan kepa
 Temui Tuan Zhed.#
 
 
-// ¶óÇï : ½Å°ü Äù½ºÆ® (rachel_ma1.sc)
+// ë¼í—¬ : ì‹ ê´€ í€˜ìŠ¤íŠ¸ (rachel_ma1.sc)
 
 8100#Rekomendasi High Priest Zhed#SG_FEEL#QUE_NOIMAGE#
 Ketika aku selesai menulis surat rekomendasi ini, aku akan memberitahukan kepadamu cara pergi ke kantor Pope dimana kamu harus pergi setelah mengumpulkan 40 Glacial Hearts.#
@@ -1486,7 +1486,7 @@ Saya akan memperingatkan Bekento mungkin dia akan menyebabkan masalah untuk kamu
 Pergi kembali ke Zhed.#
 
 
-// ¶óÇï : °³Ã´ÇÏÁö ¸øÇÑ ¿î¸í Äù½ºÆ® (rachel_ryu.sc)
+// ë¼í—¬ : ê°œì²™í•˜ì§€ ëª»í•œ ìš´ëª… í€˜ìŠ¤íŠ¸ (rachel_ryu.sc)
 
 8106#Keberadaan Bruspetti#SG_FEEL#QUE_NOIMAGE#
 Saya juga baru menetahuinya bahwa anak saya yang berharga pergi dengan seseorang. Dia pergi ke beberapa kota untuk anak ini, dan saya belum mendengar kata-kata apapun dari dia! mungkin pada beberapa dengan anak laki-laki.#
@@ -1557,7 +1557,7 @@ Dia masih menyangkal... Bagaimana saya mendapatkan kebenarannya dari dia? Mungki
 ... Tolong tinggalkan saya sendiri. Saya telah kehilangan wanita yang saya cintai karena kebodohan saya di masa lalu. Jika kamu ingin menangkap saya, silahkan...#
 Pergi ke mata air Freya.#
 
-// ¾Æ¿äÅ¸¾ß : Œc¾ç²á Äù½ºÆ® (ayo_tom.sc)
+// ì•„ìš”íƒ€ì•¼ : ÂŒcì–‘ê¿ í€˜ìŠ¤íŠ¸ (ayo_tom.sc)
 
 8123#Ayotaya, Tom Yum Goong#SG_FEEL#QUE_NOIMAGE#
 Semua orang dapat mebuat Tom Yum Goong, tetapi saya menyarankan untuk menemui ^3131FFMali the Spicy^000000. Dia adalah koki handal. Mengapa kamu tidak berbicara padanya untuk memasakannya untuk kamu?#
@@ -1576,7 +1576,7 @@ Sekarang kamu harus mendapatkan '^CE0000Chilli^000000' dan bahan yang lain dari 
 Bawakan 30 Chilli dan bahan lainnya kepada Mali the Spicy.#
 
 
-// ¾Æ¸¶Âê : ¸ğ¸ğÅ¸·Î Äù½ºÆ® (japan_momo_q.sc)
+// ì•„ë§ˆì¯” : ëª¨ëª¨íƒ€ë¡œ í€˜ìŠ¤íŠ¸ (japan_momo_q.sc)
 
 8127#Momotaro#SG_FEEL#QUE_NOIMAGE#
 Ketua berkata Dokebi memperoleh 20 juta zeny dengan membajak simpanan orang lainn... Sejak kami para penduduk menghabiskan waktu kami untuk duduk dan berbincang-bincang, kami tidak dapat membunuh Dokebis karena kami terlalu lemah, jadi...Tolong lakukan ini demi kami.#
@@ -1595,7 +1595,7 @@ Kamu benar-benar luar biasa. Kamu telah menemukan gerakannya. Mari akan kutunjuk
  #
 
 
-// ¾Æ¸¶Âê : ´øÀü ÃâÀÔ Äù½ºÆ® (japan_mono.sc)
+// ì•„ë§ˆì¯” : ë˜ì „ ì¶œì… í€˜ìŠ¤íŠ¸ (japan_mono.sc)
 
 8131#Ibunda Raja Amatsu#SG_FEEL#QUE_NOIMAGE#
 Ibu dari raja sedang beristirahat di sini. Dia telah sakit selama berbulan-bulan. Itulah mengapa dia berada di sini.#
@@ -1618,7 +1618,7 @@ Sebuah Roh yang lebih kuat dapat menangkal rubah itu. Ayoo teriak dan tunjukkan 
  #
 
 
-// ¸ğ½ºÄÚºñ¾Æ : ºÒ»ç½Å ÄÚ½¦ÀÌ Äù½ºÆ® (mos_request.sc)
+// ëª¨ìŠ¤ì½”ë¹„ì•„ : ë¶ˆì‚¬ì‹  ì½”ì‰ì´ í€˜ìŠ¤íŠ¸ (mos_request.sc)
 
 
 8136#Hutan yang berbahaya#SG_FEEL#QUE_NOIMAGE#
@@ -1650,7 +1650,7 @@ Kamu memerlukan ^0000ff2 Cursed Ruby, 3 Gold, 1 Red Ring, 2 Lusalka's Hair, 10 G
 bawakan 2 Cursed Ruby, 3 Gold, 1 Red Ring, 2 Lusalka's Hair, 10 Golden Thread kepada blacksmith di Moscovia#
 
 
-// <»¡°£ ¹İÁö Äù½ºÆ®>
+// <ë¹¨ê°„ ë°˜ì§€ í€˜ìŠ¤íŠ¸>
 
 8143#Cincin Merah Bassili#SG_FEEL#QUE_NOIMAGE#
 Saya memberikan cincin merah kepada adik bungsu perempuan saya, Mashenka, sebagai hadiah. Dan dia meninggal... Saya hanya mempunyai anak perempuan yang lebih tua, Ryubaba. Dia juga cantik, pintar dan sangat disayang, tetapi saya tidak dapat meringankan kesedihan atas kehilangan anak perempuan..#
@@ -1672,7 +1672,7 @@ Apa, apa-apaan ini? Mengerikan! Kenapa seruling ini mengeluarkan suara ini!? Say
 Saya tidak mau menukar ini dengan cincin itu! Saya harus membiarkan ayahmu untuk mengetahui apa yang terjadi sebenarnya! Saya akan pergi ke dia dan menceritakan hal ini! Kamu berlakulah jujur dan akan dihukum!#
 Laporkan pada Bassili#
 
-// <·ç»ì±îÀÇ ¸Ó¸®Ä«¶ô Äù½ºÆ®>
+// <ë£¨ì‚´ê¹Œì˜ ë¨¸ë¦¬ì¹´ë½ í€˜ìŠ¤íŠ¸>
 
 8148#Dissappointed Lady#SG_FEEL#QUE_NOIMAGE#
 Apakah kamu pernah pergi ke rawa-rawa di Moskovia? Apakah kamu melihat anak perempuanku?? Saya tidak perduli apabila dia berubah menjadi Lusalka. Saya ingin mengetahui dimana ia berada.#
@@ -1699,7 +1699,7 @@ Bisakah kamu pergi kepadanya dan memberitahu pesan saya? Sebelum bulan purnama, 
  #
 
 
-// <¸¶·ÎÁî±î Äù½ºÆ®>
+// <ë§ˆë¡œì¦ˆê¹Œ í€˜ìŠ¤íŠ¸>
 
 8155#Mazroka, penguasa musim dingin#SG_FEEL#QUE_NOIMAGE#
 Didalam goa ini, mereka adalah 'Brazier' dan 'Apple Tree'. kamu keluar dari goa ini dengan ^0000ff100 Well Baked Cookies^000000 dari Brazier dan ^0000ff100 Apples^000000 dari Apple Tree.#
@@ -1713,13 +1713,13 @@ Seperti yang kamu dengar, Untuk membuat 'Golden Thread' itu sangat susah dan mem
 Koshei akan bermusuhan denganmu karena kamu membantu Maria. Apakah kamu ingin mempunyai golden thread? Ok, Saya akan memberikan kepadamu! Tetapi, masih ada 1 tes lagi. Saya tidak mau kamu dikorbankan untuk desa kami and tolong hargai untuk itu.#
  #
  
-// <¹Ù¹Ù¾ß°¡¿Í È²±İ»ö ¿­¼è>
+// <ë°”ë°”ì•¼ê°€ì™€ í™©ê¸ˆìƒ‰ ì—´ì‡ >
 
-8158#³°Àº ¿ÀµÎ¸·ÀÇ ¹Ù¹Ù¾ß°¡#SG_FEEL#QUE_NOIMAGE#
+8158#ë‚¡ì€ ì˜¤ë‘ë§‰ì˜ ë°”ë°”ì•¼ê°€#SG_FEEL#QUE_NOIMAGE#
 Saya sedang mencari sebuah tukang kunci yang dapat membuat sebuah kunci! pembuat kunci Golden Key tinggal di dalam rumahnya di dalam hutan. ^ff0000kamu, mengalirlah, minumlah ini^000000 mantera melindungi kamu dari Babayaga..#
  #
  
-// <Babayaga's Favor : ±Ã¼ö°è¿­>
+// <Babayaga's Favor : ê¶ìˆ˜ê³„ì—´>
 
 8159#Permohonan Babayaga#SG_FEEL#QUE_NOIMAGE#
 Rasa takutku telah keluar semua. Temukan dia dan Keluarkan kembali mantera pembalik. manteranya adalah '^ff0000Good feed is orange-flavored^000000'. kamu seharusnya mengingat ini.#
@@ -1729,7 +1729,7 @@ Temukan sapi Babayaga#
 Kamu mengeluarkan mantera ini dengan cepat dan ketakutannya dikelilingi oleh cahaya dan menghilang!!#
 Kembali ke Babayaga#
 
-// <Babayaga's Favor : º¹»ç°è¿­>
+// <Babayaga's Favor : ë³µì‚¬ê³„ì—´>
 
 8161#Permohonan Babayaga#SG_FEEL#QUE_NOIMAGE#
 Dibelakang rumah saya, terdapat peti jenazah yang gaduh. Peti itu telah gaduh beberapa saat ini sehingga saya tidak dapat tidur di malam hari. Bebaskan mereka.#
@@ -1739,7 +1739,7 @@ Periksa peti.#
 .........apabila kamu membuat kegaduhan sekali lagi, kamu akan melihat lebih dari yang kamu bayangkan...#
 Kembali ke Babayaga#
 
-// <Babayaga's Favor : µµµÏ°è¿­>
+// <Babayaga's Favor : ë„ë‘‘ê³„ì—´>
 
 8163#Permohonan Babayaga#SG_FEEL#QUE_NOIMAGE#
 Tolong temukan sendok perakku. mereka bajak laut yang jahat mencurinya. Saya dapat merasakan mereka di sekitar bangkai kapal. Bawakan mereka untukku.#
@@ -1765,7 +1765,7 @@ Buat kunci dengan menyatukan semua potongan secara bersama-samas.#
 Cahaya yang dipantulkan membentuk tubuh wanita dan banunya keluar dari kotak itu dan terbuka!! Kamu menemukan sendok Babayaga#
 Kembali ke Babayaga#
 
-// <Babayaga's Favor : ¹ı»ç°è¿­>
+// <Babayaga's Favor : ë²•ì‚¬ê³„ì—´>
 
 8169#Permohonan Babayaga#SG_FEEL#QUE_NOIMAGE#
 Belikan saya sebuah buku sihir. Buku itu diterbitkan oleh momotaro di Amatsu. Pergilah kesana dan belikan untukku.#
@@ -1775,7 +1775,7 @@ Beli buku sihir dari Babayaga#
 Apakah ini sudah benar? ' Sihir untuk menghancurkan waktu', 'cerita tentang rumah hantu seputar dunia', 'Aneh dan aneh akan dunia tumbuhan.' kamu memerlukan beberapa buku, Tolong kontak kami.#
 Kembali ke Babayaga.#
 
-// <Babayaga's Favor : °Ë»ç°è¿­>
+// <Babayaga's Favor : ê²€ì‚¬ê³„ì—´>
 
 8171#Permohonan Babayaga#SG_FEEL#QUE_NOIMAGE#
 Apakah kamu dapat melihat guci di sebelah pondok itu? Disana terdapat rumah hantu yang tinggal disana. Usir dia dari sana. Dia sudah banyak mengganggu saya.#
@@ -1785,7 +1785,7 @@ Usir arwah dari pondok.#
 Saya tidak akan membahayakan orang dan berlaku baik! Saya akan menjadi penjaga bagi rumah ini! Saya tidak akan lupa akan kebaikanmu untuk bermain dengan salah satu dari rumah hantu ini.#
 Kembali ke Babayaga#
 
-// <Babayaga's Favor : »óÀÎ°è¿­, È®ÀåÁ÷¾÷±º>
+// <Babayaga's Favor : ìƒì¸ê³„ì—´, í™•ì¥ì§ì—…êµ°>
 
 8173#Permohonan Babayaga#SG_FEEL#QUE_NOIMAGE#
 Pergilah ke nenek sapu di payon dan belikan saya sebuah sapu. Akan lebih baik untuk bersih-bersih tetapi saya tidak punya waktu untuk pergi kesana.#
@@ -1799,9 +1799,9 @@ Saya tidak punya sapu satupun. hantu-hantu telah mencuri semua sapu-sapu yang ba
 Ah. Saya kalah, Tetapi sangat menyenangkan. Saya akan memberikan kamu sapu sesuai janjiku. Jika Bisa, bermainlah bsersama saya lagi. ini sapunya.#
 Kembali ke Babayaga#
 
-// <È²±İ»öÀÇ ¿­¼è>
+// <í™©ê¸ˆìƒ‰ì˜ ì—´ì‡ >
 
-8176#È²±İ»öÀÇ ¿­¼è#SG_FEEL#QUE_NOIMAGE#
+8176#í™©ê¸ˆìƒ‰ì˜ ì—´ì‡ #SG_FEEL#QUE_NOIMAGE#
 Kamu tepat waktu. Saya baru saja selesai membuat 'Golden Key'! ini, bantu maria dengan kunci ini dan hati-hati dengan Koshei. Kehehehehehe.#
 Bebaskan Maria#
 
@@ -1814,7 +1814,7 @@ Untuk menyelamatkan Maria, kamu memerlukan Air kehidupan dan air kematian. Babay
 Bawa Air Kehidupan dan Air Kematian#
 
 8179#Air kehidupan dan kematian#SG_FEEL#QUE_NOIMAGE#
-'Air kehidupan'... Saya pernah mendengar ini sebelumnya. Saya butuh ^0000ff1 Holy Water^000000 dan ^0000ff2 The Leaf That Constitutes The World^000000 untuk membuat air kehidupan. dan untuk air kematian.. Saya membutuhkan ^0000ff1 Cursed Water^000000¿Í ^0000ff10 Leaflet Of Hinal^000000.#
+'Air kehidupan'... Saya pernah mendengar ini sebelumnya. Saya butuh ^0000ff1 Holy Water^000000 dan ^0000ff2 The Leaf That Constitutes The World^000000 untuk membuat air kehidupan. dan untuk air kematian.. Saya membutuhkan ^0000ff1 Cursed Water^000000ì™€ ^0000ff10 Leaflet Of Hinal^000000.#
 Bawakan bahannya ke Babayaga#
 
 8180#Air kehidupan dan kematian#SG_FEEL#QUE_NOIMAGE#
@@ -1822,7 +1822,7 @@ Bawa ini dan bantu maria. Pertama-tama, tuangkan air kematian kepada maria untuk
 Bantu Maria.#
 
 
-// Äù½ºÆ® ½ºÅ³ : À§ÀÚµå, »çÀÌÆ® ºí·¡½ºÅÍ (qskilll_wizard.sc)
+// í€˜ìŠ¤íŠ¸ ìŠ¤í‚¬ : ìœ„ìë“œ, ì‚¬ì´íŠ¸ ë¸”ë˜ìŠ¤í„° (qskilll_wizard.sc)
 
 8181#Sight Blaster#SG_FEEL#QUE_NOIMAGE#
 Skill ini sepertinya terdengar mudah tetapi susah untuk dipelajari. Knight sangat ahli dengan skills yang mendorong musuh kembali, jadi pergi dan temukan seseorang yang mampu menjelaskan skill teori dorong kebelakang untukmu di prontera. Cek arah jam 11 pada Mini-Map mu.#
@@ -1837,7 +1837,7 @@ Saya bukan orang yang dermawan, jadi saya mengharapkan bayaran atas semua instru
 Bawakan bahan ke  Meow.#
 
 
-// Äù½ºÆ® ½ºÅ³ : ¼¼ÀÌÁö, ¿¤·¹¸àÅ» ÄÁ¹öÅÍ Á¦Á¶, ¿¤·¹¸àÅ» Ã¼ÀÎÁö (qskilll_sage.sc)
+// í€˜ìŠ¤íŠ¸ ìŠ¤í‚¬ : ì„¸ì´ì§€, ì—˜ë ˆë©˜íƒˆ ì»¨ë²„í„° ì œì¡°, ì—˜ë ˆë©˜íƒˆ ì²´ì¸ì§€ (qskilll_sage.sc)
 
 8184#Elemental Converter#SG_FEEL#QUE_NOIMAGE#
 Tolong berikan bahan-bahan yang dibutuhkan sehingga kita dapat membuat sebuah basic elemental converter. kamu memerlukan ^ff00007 Horns, 12 Rainbow Shells, 10 Snail's Shells, 4 Blank Scrolls, 10 Scorpion Tails^000000.#
@@ -1864,7 +1864,7 @@ Tolong bawakan ^ff000020 Crystal Blues, 1 Payon Solution, 1 Morroc Solution^0000
 Kembali ke Mishuna bersama bahan tersebut.#
 
 
-// Äù½ºÆ® ½ºÅ³ : ´í¼­, ¸ÅÈ¤ÀÇ À®Å© (qskilll_dancer.sc)
+// í€˜ìŠ¤íŠ¸ ìŠ¤í‚¬ : ëŒ„ì„œ, ë§¤í˜¹ì˜ ìœ™í¬ (qskilll_dancer.sc)
 
 8190#Charming Wink#SG_FEEL#QUE_NOIMAGE#
 Kamu harus membawa kepada saya ^FF00001 Crystal Mirror^0000000! Alat ini sangat penting untuk pelajaran ini, jadi ambil dan bawakan kepada saya secepatnya!#
@@ -1892,17 +1892,17 @@ Sekarang, seorang dancer sejati harus dapat menemukan rahasia skill wink dengan 
 
 
 
-// ¹Ú¼±±¸
+// ë°•ì„ êµ¬
 
-//================================³ªÀÌÆ® ÀüÁ÷==========================================
+//================================ë‚˜ì´íŠ¸ ì „ì§==========================================
 
-//-----------------Çì¸£¸¸------------------------
+//-----------------í—¤ë¥´ë§Œ------------------------
 
 9000#Quest Rubah Job Knight#SG_FEEL#QUE_NOIMAGE#
 The Chivalry Captain 'Herman' berkata bahwa kamu perlu untuk mendapatkan persetujuan dari Knight lainnya untuk menjadi seorang Knight. #
 Bicara pada anggota perkumpulan lainnya.#
 
-//-----------------¿£µå·ù-----------------------
+//-----------------ì—”ë“œë¥˜-----------------------
 
 // 1st test - 1
 9001#Kesetiaan Knight#SG_FEEL#QUE_NOIMAGE#
@@ -1919,14 +1919,14 @@ Masing-masing 5 dari item Bug Leg, Heart of Mermaid, Maneater Blossom, Clam Fles
 Sir Andrew menyuruhmu mengunjungi Sir Siracuse untuk melanjutkan tes berikutnya.#
 Percakapan dengan 'Sir Siracuse'#
 
-//----------------Á¦ÀÓ½º--------------------------
+//----------------ì œì„ìŠ¤--------------------------
 
 // 2nd test
 9004#Kehormatan Knight#SG_FEEL#QUE_NOIMAGE#
 'James Siracuse' menyuruhmu menemui Sir Windsor untuk tes berikutnya.#
 Percakapan dengan 'Sir Windsor'#
 
-//----------------À©Àú--------------------------
+//----------------ìœˆì €--------------------------
 
 // 3rd test
 9005#Ketahanan Knight#SG_FEEL#QUE_NOIMAGE#
@@ -1945,7 +1945,7 @@ Kalahkan semua monster dalam 3 menit#
 'Sir Windsor' tells you to visit 'Amy Beatrice' for the next test.#
 Conversation with 'Amy Beatrice'#
 
-//----------------¿¡ÀÌ¹Ì--------------------------
+//----------------ì—ì´ë¯¸--------------------------
 
 
 // 3rd test
@@ -1961,7 +1961,7 @@ Percakapan dengan 'Amy Beatrice'#
 Percakapan dengan 'Sir Edmond'#
 
 
-//----------------¾Öµå¸óµå--------------------------
+//----------------ì• ë“œëª¬ë“œ--------------------------
 
 // 4th test
 9010#Arti dari kehormatan#SG_FEEL#QUE_NOIMAGE#
@@ -1973,21 +1973,21 @@ Meditasi#
 'Sir Edmond' menyuruhmu untuk menemui 'Sir Gray' untuk tes terakhir.#
 Percakapan dengan 'Sir Gray'#
 
-//-----------------±×·¹ÀÌ----------------------------
+//-----------------ê·¸ë ˆì´----------------------------
 
 // 6th test
 9012#Kejayaan Knight!#SG_FEEL#QUE_NOIMAGE#
 'Sir Gray' menyuruhmu untuk menrubah profesimu dengan menemui Kapten, karena kamu sudah berbicara dengan semua anggota perkumpulan. Saatnya untuk menjadi Knight!# 
 Percakapan dengan 'Sir Gray'#
 
-//=======================Á¾·á======================================
+//=======================ì¢…ë£Œ======================================
 
 
 
 
-//= =====================À§ÀÚµå ==============================
+//= =====================ìœ„ìë“œ ==============================
 
-//---------------------------Ä«Æ®¸°´À--------------------------------
+//---------------------------ì¹´íŠ¸ë¦°ëŠ--------------------------------
 9013#Menjadi Wizard!#SG_FEEL#QUE_NOIMAGE#
 Anggota Perkumpulan Wizard, Catherine memberikan tes untuk mengumpulkan Gemstone.#
 Kumpulkan masing-masing 3 buah Red, Blue, Yellow Gemstone.#
@@ -2003,7 +2003,7 @@ Kamu telah lulus ujian pertama dari 'Catherine.'  Kamu diperintahkan untuk menem
 Pergi dan temukan 'Gloomy Wizard.'#
 
 
-//---------------------------¶ó¿ì·» ( À½Ä§ÇÑ ³²ÀÚ )--------------------------------
+//---------------------------ë¼ìš°ë Œ ( ìŒì¹¨í•œ ë‚¨ì )--------------------------------
 
 9016#Memahami Magic dan Matter#SG_FEEL#QUE_NOIMAGE#
 Tahap kedua Quest pergantian Job adalah untuk menjawab semua pertanyaan 'Raulel.'#
@@ -2017,7 +2017,7 @@ Latihan dalam menggunakan 3 elemen#
 Kamu telah lulus semua ujian yang diberikan 'Raulel.' Temui Catherine untuk terakhir kalinya!#
 Percakapan dengan 'Catherine'#
 
-//---------------------------ÀüÀå--------------------------------
+//---------------------------ì „ì¥--------------------------------
 2069#Tierra Gorge Battle#SG_FEEL#QUE_NOIMAGE#
 Kamu telah  menerima tanda kalau kamu berpartisipasi di Tierra Gorge. Guillaume Army tidak akan memperbolehkan kamu ikut serta dalam battle lain sampai kamu menyelesaikannya.#
 Bersiap untuk Tierra Valley Battle sampai batas waktu yang ditentukan.#
@@ -2039,7 +2039,7 @@ Kalahkan Nacht Sieger di lantai 102 dari Endless tower.#
 Dikarenakan meninggal di dalam endless tower, Maka tidak dapat kembali untuk memasukinya hingga tower regenerasi.#
 #
 
-//---------------------------¿ÕÀ§Á¶·Ê--------------------------------
+//---------------------------ì™•ìœ„ì¡°ë¡€--------------------------------
 10000#Ke Prontera Royal Court#SG_FEEL#QUE_NOIMAGE#
 Seperti yang dikatakan messenger, pergi ke Prontera Royal Court dan bicara pada Inspector.#
 #
@@ -2144,7 +2144,7 @@ Ingat percakapan terakhir antara kedua pangeran itu.#
 Laporkan pada inspector tentang semua yang sudah kamu lakukan selama ini.#
 #
 
-//---------------------------À¯³ë ¸ŞÅä Äù--------------------------------
+//---------------------------ìœ ë…¸ ë©”í†  í€˜--------------------------------
 10026#Reforming Meto#SG_FEEL#QUE_NOIMAGE#
 Pergi dan temui Meto seperti yang disarankan Weigon.#
 #
@@ -2177,7 +2177,7 @@ Temui Meto dan lihat apakah rencanamu berhasil..#
 Pembentukan kembali berhasil! Laporkan pada Weigon.#
 #
 
-//---------------------------°ï·û ÂøÇÑ ÀÎ°£--------------------------------
+//---------------------------ê³¤ë¥œ ì°©í•œ ì¸ê°„--------------------------------
 10034#Cari Pisau#SG_FEEL#QUE_NOIMAGE#
 Pergi dan cari pisau YunKyoHam.#
 #
@@ -2186,7 +2186,7 @@ Pergi dan cari pisau YunKyoHam.#
 Kamu menemukan pisaunya. Kembali kepada YunKyoHam.#
 #
 
-//---------------------------½º½Ã ¿Í»çºñ Äù--------------------------------
+//---------------------------ìŠ¤ì‹œ ì™€ì‚¬ë¹„ í€˜--------------------------------
 10036#Material Supply-Candy#SG_FEEL#QUE_NOIMAGE#
 Bawakan 10 Candy pada Magumagu.#
 #
@@ -2211,7 +2211,7 @@ Bawakan 1 China pada Magumagu.#
 Bring 100 Hearts of Mermaid pada Magumagu.#
 #
 
-//---------------------------°Ç¹İ Ã£±â Äù--------------------------------
+//---------------------------ê±´ë°˜ ì°¾ê¸° í€˜--------------------------------
 10042#Tuts Piano - 5 buah#SG_FEEL#QUE_NOIMAGE#
 Mungkin orang yang berbicara berbelit-belit memilikinya.#
 #
@@ -2264,7 +2264,7 @@ Sepertinya tidak masalah jika aku memasukan sesuatu yang bukan tuts piano.#
 Bicara pada penyihir, Clint Kana untuk melarikan diri.#
 #
 
-//---------------------------¿ìÅº ÃßÀå ¹ø¿ª Äù--------------------------------
+//---------------------------ìš°íƒ„ ì¶”ì¥ ë²ˆì—­ í€˜--------------------------------
 
 10055#Understanding the culture of Utan#SG_FEEL#QUE_NOIMAGE#
 Kepala suku Umbala menyarankan untuk mempelajari budaya Umbala.#
@@ -2275,8 +2275,8 @@ Kamu dapat mempelajari bahasa Umbala jika kamu membawa item tertentu.#
 10 Oil Paper, 5 Slick Paper, 1 Squid Ink, 1 Feather of Birds#
 
 
-// ¼Û¼ÛÀÌ
-// ----------¿Àµò½ÅÀü, »ıÃ¼¿¬±¸, µµ¼­°ü, µ¹Áİ´Â³ëÀÎ
+// ì†¡ì†¡ì´
+// ----------ì˜¤ë”˜ì‹ ì „, ìƒì²´ì—°êµ¬, ë„ì„œê´€, ëŒì¤ëŠ”ë…¸ì¸
 11000#Ekspedisi Odin Shrine#SG_FEEL#QUE_NOIMAGE#
 Jika kamu ingin membantu kami, silahkan melihat kuil terlebih dahulu sebelum memutuskan membantu kami. Bicara pada Boatman untuk ke shrine, oke?#
 Bicara pada Alex lagi setelah penyelidikan.#
@@ -2617,13 +2617,13 @@ Nagash Arses sepertinya sangat puas. Ceritakan juga pada Song Zhi Du.#
 
 
 
-// ¹ÚÀÏ¿ë
-//---------------Ä£±¸, ¹«±â°ø±Ş------------------------
+// ë°•ì¼ìš©
+//---------------ì¹œêµ¬, ë¬´ê¸°ê³µê¸‰------------------------
 12000#Persahabatan:Perseliisihan#SG_FEEL#QUE_NOIMAGE#
 Temukan teman Maku dan bicara padanya.#
 Temui teman Maku.#
 
-12001#Persahabatan:Dekat, tapi sangat jauh¡¦#SG_FEEL#QUE_NOIMAGE#
+12001#Persahabatan:Dekat, tapi sangat jauhâ€¦#SG_FEEL#QUE_NOIMAGE#
 Kembali ke Maku dan bicara padanya.#
 Kembali ke Maku.#
 
@@ -2802,8 +2802,8 @@ Mencari Ibu Torpy di luar desa.#
 Mencari Ibu Torpy#
 
 12045#Soothing a crying child 2#SG_FEEL#QUE_NOIMAGE#
-Antarkan pesan ibunya pada Torpy. [Aku akan kembali¡¦]#
-Aku akan kembali¡¦#
+Antarkan pesan ibunya pada Torpy. [Aku akan kembaliâ€¦]#
+Aku akan kembaliâ€¦#
 
 12046#Soothing a crying child 3#SG_FEEL#QUE_NOIMAGE#
 Mencari ayah Torpy yang menyebabkan semua masalah. Dia pasti bersembunya disuatu tempat di desa.#

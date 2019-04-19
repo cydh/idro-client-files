@@ -509,3 +509,63 @@
 4493#Half Highly Dangerous#
 4495#Of Half Protective's#
 4503#Of Half Vision#
+4539#Half Arrorgant#
+4487#Half Inferno#
+
+
+// Nightmare (Pyramid)_EN
+4652#Punishment#
+4653#Undead Animal's#
+4654#Tomb Raider's#
+4655#Grave Keeper's#
+4656#Hypnotist#
+4657#Flame#
+4658#of Sorcery#
+
+// Nightmare (ClockTower)_EN
+4625#Wise Man's#
+4626#of Echo#
+4627#Vibrating#
+4628#Invisible Horror#
+4629#Skinny#
+4630#Time Keeper's#
+4631#Nimble#
+4632#Voltaic#
+
+// Update 5 juni 2018
+4593#of Shooter#
+4594#of Death Blow#
+4595#of Acid#
+4596#of Intellectual#
+4597#of Water#
+4598#of Ground#
+4599#of Fire#
+4600#of Telekinesis#
+4582#Stamina#
+4583#of Poison Grass#
+4584#Vampiric#
+4585#Cursed#
+4586#of Wind#
+4587#Slasher#
+4588#of Power#
+4505#of Mad Witch#
+4506#of Archer#
+4507#Scaraba#
+4508#of Mad Berserker#
+4509#Insectproof#
+4510#Black-out#
+4512#of Acolyte#
+4513#of Thief#
+4514#Exorcism#
+4515#Flora#
+4516#of Stone Wall#
+4517#of Magician#
+4518#Burning#
+4519#Seraphim#
+4520#Screaming#
+
+// Hall of Abyss
+4576#Educe#
+4578#Fear#
+4574#Sword Master#
+4580#of Devilish#
