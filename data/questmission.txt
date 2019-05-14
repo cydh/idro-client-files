@@ -12332,3 +12332,9 @@ quest {
         quest_info (19302, "Turn-in Angra Mantis Hunting")
 		hunt("ANGRA_MANTIS", 400)
 }
+
+// -- Daily Quest Special Gravindo
+quest {
+        quest_info (19303, "Daily Special Gravindo")
+        fixedtime(0,0,0,00)
+}
